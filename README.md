@@ -13,7 +13,7 @@ The initial position from which the device acquires images at specific degree in
 '
 
 ![alt text](Screenshots/Device_End_Point.jpg "The final position that the device acquires images resulting in images captured across a range of 60 degrees.")
-The final position that the device acquires images resulting in images captured across a range of 60 degrees.
+The final position that the device acquires images yielding an image range of 60 degrees.
 
 '
 
