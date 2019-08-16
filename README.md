@@ -19,7 +19,7 @@ The final position that the device acquires images yielding an image range of 60
 
 
 ![alt text](Screenshots/Encoder_Arduino_Determines_Angle.jpg "Encoder determines the angle of the device which is integrated with MATLAB software to enable image acquisition at precise degree intervals")
-                            Encoder determines the angle of the device which is integrated with MATLAB software to enable image acquisition at precise degree intervals.
+          Encoder determines the angle of the device which is integrated with MATLAB software to enable image acquisition at precise degree intervals.
 
 '
 
@@ -29,7 +29,16 @@ The final position that the device acquires images yielding an image range of 60
 '
 
 ![alt text](Screenshots/Arc_Design_3DModel.png "3D model of the gear arc used to move the device in small step intervals. Various components were designed using 3D Modeling Software in the creation of the device including the gear, motor structure, device reinforcement parts, phantom test object, etc. Plan to print these components in metal instead of plastic.")
-                           3D model of the gear arc used to move the device in small step intervals. Various components were designed using 3D Modeling Software in the creation of the device including the gear, motor structure, device reinforcement parts, phantom test object, etc. Plan to print these components in metal instead of plastic.
+          3D model of the gear arc used to move the device in small step intervals. Various components were designed using 3D Modeling Software in the creation of the device including the gear, motor structure, device reinforcement parts, phantom test object, etc. Plan to print these components in metal instead of plastic.
+
+'
+![alt text](Screenshots/Same_Particle_Diff_Cameras.png "9 neighboring images of same particle taken from different cameras at different angles (essentially different planes).") 
+9 neighboring images of same particle taken from different cameras at different angles (essentially different planes). The Convolutional Neural Network aims to recognize images with focused particles. This entails determining whether the combined 9 images have a focused object and then determining the corresponding position in the image stack.
+
+'
+
+
+
 
 
 
