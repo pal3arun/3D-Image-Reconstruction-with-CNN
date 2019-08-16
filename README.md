@@ -36,6 +36,19 @@ The final position that the device acquires images yielding an image range of 60
 9 neighboring images of same particle taken from different cameras at different angles (essentially different planes). The Convolutional Neural Network aims to recognize images with focused particles. This entails determining whether the combined 9 images have a focused object and then determining the corresponding position in the image stack.
 
 '
+![alt text](Screenshots/Intensity_Center_Positions.png "One Hot Code System that determines if the combined image contains a focused object if the output node from the CNN has magnitude above the SSIM structural similarity threshold filters.") 
+One Hot Code System that determines if the combined image contains a focused object if the output node from the CNN has magnitude above the SSIM structural similarity threshold filters.
+
+'
+
+![alt text](Screenshots/Remove_Overlap.png "Non-Maximum Suppression removes redundant overlapping particles that are considered "focused" by multiple combined 9-image sets. This further optimizes the smart 3d image reconstruction. ")
+
+Non-Maximum Suppression removes redundant overlapping particles that are considered "focused" by multiple combined 9-image sets. This further optimizes the smart 3d image reconstruction.
+
+'
+
+
+
 
 
 
