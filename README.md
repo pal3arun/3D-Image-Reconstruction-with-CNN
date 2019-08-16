@@ -42,7 +42,6 @@ One Hot Code System that determines if the combined image contains a focused obj
 '
 
 ![alt text](Screenshots/Remove_Overlap.png "Non-Maximum Suppression removes redundant overlapping particles that are considered "focused" by multiple combined 9-image sets. This further optimizes the smart 3d image reconstruction.")
-
 Non-Maximum Suppression removes redundant overlapping particles that are considered "focused" by multiple combined 9-image sets. This further optimizes the smart 3d image reconstruction.
 
 '
