@@ -55,7 +55,7 @@ After the CNN, the reconstruction is based on already established Synthetic Aper
 
 
 
-***I did not include any code or details beyond general information related to the project since it may be used for further research purposes.
+***I did not include any code or details beyond general information related to the project since it may be used for further research purposes.***
 
 
 
