@@ -19,20 +19,17 @@ The final position that the device acquires images yielding an image range of 60
 
 
 ![alt text](Screenshots/Encoder_Arduino_Determines_Angle.jpg "Encoder determines the angle of the device which is integrated with MATLAB software to enable image acquisition at precise degree intervals")
-'
-Encoder determines the angle of the device which is integrated with MATLAB software to enable image acquisition at precise degree intervals.
+                            Encoder determines the angle of the device which is integrated with MATLAB software to enable image acquisition at precise degree intervals.
 
 '
 
-![alt text](Screenshots/Sample_Calibration_Imageset.JPG "64 Images of checkerboard calibration object taken by the device at half-degree intervals")
-'
+![alt text](Screenshots/Sample_Calibration_Imageset.JPG "64 Images of checkerboard calibration object taken by the device at half-degree intervals") 
 64 Images of checkerboard calibration object taken by the device at half-degree intervals.
 
 '
 
 ![alt text](Screenshots/Arc_Design_3DModel.png "3D model of the gear arc used to move the device in small step intervals. Various components were designed using 3D Modeling Software in the creation of the device including the gear, motor structure, device reinforcement parts, phantom test object, etc. Plan to print these components in metal instead of plastic.")
-'
-3D model of the gear arc used to move the device in small step intervals. Various components were designed using 3D Modeling Software in the creation of the device including the gear, motor structure, device reinforcement parts, phantom test object, etc. Plan to print these components in metal instead of plastic.
+                           3D model of the gear arc used to move the device in small step intervals. Various components were designed using 3D Modeling Software in the creation of the device including the gear, motor structure, device reinforcement parts, phantom test object, etc. Plan to print these components in metal instead of plastic.
 
 
 
