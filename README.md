@@ -2,3 +2,5 @@
 Built prototype device which acquires images from 3 cameras across 60 degrees and reconstructs a 3D image of object using CNN and Synthetic Aperture Imaging
 
 
+
+
