@@ -46,6 +46,11 @@ Non-Maximum Suppression removes redundant overlapping particles that are conside
 
 '
 
+![alt text](Screenshots/CNN_Pipeline.png "Overall Pipeline for the Convolutional Neural Network which ultimately filters out unfocused particles thus enabling superior 3D image reconstruction")
+Overall Pipeline for the Convolutional Neural Network which ultimately filters out unfocused particles thus enabling superior 3D image reconstruction.
+
+After the CNN, the reconstruction is based on already established Synthetic Aperture Imaging methods.
+
 
 
 
